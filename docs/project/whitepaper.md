@@ -1,4 +1,4 @@
----
+---use isa  saynak
 title: Whitepaper
 ---
 
@@ -6,7 +6,7 @@ title: Whitepaper
 <h3>Solar Whitepaper V2 (July 2023)</h3>
 
 The following whitepaper refers to goals and mission statements made by the Solar Blockchain Foundation.
-
+yes
 Click on the link below to view or download the whitepaper.
 
 - [English Whitepaper - July 2023](/assets/documents/whitepaper-july-2023.pdf)
